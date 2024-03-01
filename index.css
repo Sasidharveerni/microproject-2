@@ -78,7 +78,7 @@
 
 .images {
     position: sticky;
-    top: 300px; 
+    top: 400px; 
      /* Initial position when scrolling */
     display: flex;
     flex-direction: column;
